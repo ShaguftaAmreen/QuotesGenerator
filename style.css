@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://wallpapers.com/images/featured/laptop-murjp1nk4lp1idlt.webp");
+background-repeat:round;
+
+}
+#display{
+    color: white;
+    background-color: rgba(71, 71, 71, 0.507);
+    width: 800px;
+    margin: auto;
+    height: 150px;
+    padding-top: 30px;
+    border-radius: 20px;
+    font-size: 23px;
+}
+h1{
+    color: white;
+    font-size: 55px;
+}
+#btn{
+    background-color:rgba(255, 255, 255, 0.336);
+    padding: 15px 15px;
+    font-size: 20px;
+    border-radius: 24px;
+    margin-top: 30px;
+}
